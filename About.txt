@@ -1,7 +1,12 @@
-This project is 
+This project is Rock Papers Scissors Lizard Spock based on the Big Bang Theory game of the same name
 
-It uses 
+It is mobile responsive and uses JS modules to import the confetti 
+
+The User selects their choice and the computer automatically selects its choice too.
+
+The scores are noted and there is a manual option to reset the game
+
 
 It can be used as an example of 
 
-- 
+- a fun game 
